@@ -1,0 +1,11 @@
+C:\Users\ymao\source\repos\AutoRepeat\bin\Debug\AutoRepeat.exe.config
+C:\Users\ymao\source\repos\AutoRepeat\bin\Debug\AutoRepeat.exe
+C:\Users\ymao\source\repos\AutoRepeat\bin\Debug\AutoRepeat.pdb
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.csprojAssemblyReference.cache
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.csproj.CoreCompileInputs.cache
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.exe
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.pdb
+C:\Users\ymao\source\repos\AutoRepeat\bin\Debug\AutoRepeat.exe.manifest
+C:\Users\ymao\source\repos\AutoRepeat\bin\Debug\AutoRepeat.application
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.exe.manifest
+C:\Users\ymao\source\repos\AutoRepeat\obj\Debug\AutoRepeat.application
